@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Jason Schriener",
+    "picture": "images/1.jpg"
+  },
+  {
+    "id": 1,
+    "name": "William Christensen",
+    "picture": "images/2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Alexandria Smith",
+    "picture": "images/3.png"
+  },
+  {
+    "id": 3,
+    "name": "Derrick Henry",
+    "picture": "images/4.jpg"
+  }
+]

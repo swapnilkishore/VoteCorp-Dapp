@@ -1,0 +1,169 @@
+.background
+{
+    height:1000px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.select_address
+{
+    height:25px;
+    width:300px;
+    margin-left: 135px;
+    background: black;
+    color: white;
+    font-size: 15px;
+}
+
+.select_address1
+{
+    height:25px;
+    width:150px;
+    margin-left: 30px;
+    background: black;
+    color: white;
+    font-size: 15px;
+}
+
+.input_label
+{
+    text-align: right;
+    clear: both;
+    float:left;
+    height:25px;
+    margin-top: 25px;
+    width:200px;
+    color:white;
+    background: rebeccapurple;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.input_label1
+{
+    height:25px;
+    margin-top: 25px;
+    width:200px;
+    color:white;
+    background: rebeccapurple;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.input_address
+{
+    text-align: right;
+    clear: both;
+    float:left;
+    height:25px;
+    width:100px;
+    margin-top: 13px;
+    color:white;
+    background: rebeccapurple;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.input_registration1
+{
+    height:30px;
+    width:270px;
+    margin-top: 25px;
+    margin-left: 35px;
+    color:white;
+    background: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.normal_button 
+{
+    height: 50px;
+    width:100px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 30px;
+}
+.normal_button1
+{
+    height: 50px;
+    width:100px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 60px;
+}
+
+.normal_button2
+{
+    height: 50px;
+    width:200px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 60px;
+}
+
+.normal_button3
+{
+    height: 50px;
+    width:200px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 100px;
+}
+.Vote_Button1
+{
+    height: 40px;
+    width:150px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 250px;
+}
+
+.Vote_Button2
+{
+    height: 40px;
+    width:150px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.Vote_Button3
+{
+    height: 40px;
+    width:150px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 140px;
+}
+
+.Vote_Button4
+{
+    height: 40px;
+    width:150px;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 130px;
+}
